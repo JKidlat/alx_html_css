@@ -43,5 +43,5 @@ FAQ accordion-style layout
 Social media footer
 Installation & Setup 🛠️
 Clone this repository:
-git clone https://github.com/AndohBlay/alx_html_css.git
+git clone https://github.com/JKidlat/alx_html_css.git
 >>>>>>> 5d8a9fe (Initial commit)
